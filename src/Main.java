@@ -1,7 +1,10 @@
+import java.util.Scanner;
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hola Winston :)");
+        public static void main(String[] args) {
+            Scanner scanerCaro = new Scanner(System.in);
 
-        System.out.println("Hola Diana Carolina :-)");
-    }
+            System.out.println("Digite la opción:  ");
+            int menu = scanerMenu.nextInt();
+
+        }
 }
