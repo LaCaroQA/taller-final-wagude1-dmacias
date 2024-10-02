@@ -1,2 +1,4 @@
-package programas;public class Ejercicios {
+package programas;
+
+public class Ejercicios {
 }
